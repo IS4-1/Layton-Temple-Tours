@@ -23,6 +23,21 @@ namespace _413_Project.Controllers
             return View();
         }
 
+        public IActionResult FormPage()
+        {
+            return View();
+        }
+
+        public IActionResult ViewAppointmentsPage()
+        {
+            return View();
+        }
+
+        public IActionResult SignUpPage()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
